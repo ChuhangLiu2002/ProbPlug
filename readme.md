@@ -18,7 +18,6 @@ The fundamental idea of ProbPlug is to attach a pluggable adapter to an LLM. Thi
 
 ```bash
 git clone git@github.com:ChuhangLiu2002/ProbPlug.git
-cd Speech
 ```
 
 ### 2.Set up evironments
