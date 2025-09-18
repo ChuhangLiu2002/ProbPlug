@@ -44,7 +44,7 @@ Test
 python binary_eval.py
 ```
 
-The code for the text classifier wiil be available soon
+The code for the text classication will be available soon
 
 
 
